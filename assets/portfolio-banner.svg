@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Sucheol Jang Software and Applied AI</title><desc id="desc">A navy engineering portfolio banner with connected nodes linking software, applied AI, and electrical engineering.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1426"/><stop offset="1" stop-color="#142d4c"/></linearGradient><linearGradient id="line"><stop stop-color="#56d6d0"/><stop offset="1" stop-color="#5498ff"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern></defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/><rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+<rect x="50" y="48" width="34" height="4" rx="2" fill="#69d8d1"/><text x="98" y="55" fill="#9eb2cd" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">ENGINEERING PORTFOLIO</text>
+<text x="50" y="131" fill="#f4f8ff" font-family="Arial,sans-serif" font-weight="700" font-size="52">Sucheol Jang</text>
+<text x="52" y="175" fill="#c1d0e5" font-family="Arial,sans-serif" font-size="23">Software + Applied AI</text>
+<text x="52" y="212" fill="#8da9c8" font-family="Arial,sans-serif" font-size="17">An electrical engineering foundation. A software-building mindset.</text>
+<rect x="52" y="248" width="242" height="32" rx="16" fill="#203e5e"/><text x="69" y="269" fill="#b7e8e4" font-family="Arial,sans-serif" font-size="13">OPEN TO US + AUSTRALIA ROLES</text>
+<path d="M819 101L1021 160L819 244L819 101L947 73L1021 160L1100 254" fill="none" stroke="url(#line)" stroke-width="2" stroke-opacity=".55"/>
+<circle cx="819" cy="101" r="30" fill="#173a54" stroke="#69d8d1"/><text x="819" y="107" text-anchor="middle" fill="#d2fffa" font-family="monospace" font-size="18">&lt;/&gt;</text>
+<circle cx="1021" cy="160" r="39" fill="#1c3459" stroke="#74aaff"/><text x="1021" y="167" text-anchor="middle" fill="#d9e7ff" font-family="Arial,sans-serif" font-size="21">AI</text>
+<circle cx="819" cy="244" r="25" fill="#173a54" stroke="#69d8d1"/><path d="M808 244h9l-4-10 13 20-4-10h9" fill="none" stroke="#b6f2e7" stroke-width="2"/>
+<circle cx="947" cy="73" r="5" fill="#74aaff"/><circle cx="1100" cy="254" r="5" fill="#69d8d1"/>
+<text x="865" y="291" fill="#7391b3" font-family="monospace" font-size="12" letter-spacing="2">DEFINE / BUILD / VERIFY</text></svg>

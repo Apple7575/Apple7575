@@ -12,7 +12,7 @@ I am exploring junior software and backend engineering opportunities in the **Un
 | Project | My contribution | Evidence |
 | --- | --- | --- |
 | **Everyone's Prompt (모두의 프롬프트)** | PM; Java challenge specifications and evaluation criteria covering error/boundary cases, state preservation, and existing interfaces | [Team repository, architecture, and screenshots](https://github.com/ddingorang/itsourprompt) |
-| **DdakKok (딱콕)** | Product/AI architecture and integration contributor; frontend lead | [Presentation demo frontend](https://github.com/peanut-works/ddakkok-web) · [English guide](https://github.com/peanut-works/ddakkok-web/blob/main/README.en.md) |
+| **DdakKok (딱콕)** | Product/AI architecture and integration contributor; frontend lead | [Presentation demo frontend](https://github.com/peanut-works/ddakkok-web) · [English guide](https://github.com/Apple7575/Apple7575/blob/master/portfolio/ddakkok-frontend-guide.md) |
 | **Wireless oxygen-concentration controller** | Sensor integration, circuits, programming, and wireless control in an embedded capstone prototype | 2024 Capstone Design Silver Prize; public source/demo not currently linked |
 
 Team repositories describe the complete team system. My individual responsibilities are listed separately above.

@@ -53,10 +53,10 @@ Integrated oxygen sensing, circuit design, control logic, and wireless communica
 
 ## Background
 
-**Jeonbuk National University** — B.Eng. in Electrical Engineering, February 2026  
+**University** — B.Eng. in Electrical Engineering, February 2026  
 Minor in New Energy Engineering · Accredited engineering curriculum
 
-**Undergraduate Research Assistant** — Jeonbuk National University, March 2024–June 2025  
+**Undergraduate Research Assistant** — University, March 2024–June 2025  
 RF plasma etching and impedance matching; PLECS and oscilloscope-based measurement and analysis
 
 **Samsung Software & AI Academy** — Non-degree software and AI training, 2026–present

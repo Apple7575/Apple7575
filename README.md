@@ -1,3 +1,51 @@
+# Sucheol Jang
+### Junior Software Engineer · Backend & Applied AI Projects
+
+I build software and applied AI projects through **Samsung Software & AI Academy (SSAFY)**. My background combines a **B.Eng. in Electrical Engineering** with software development, RF research, and embedded systems.
+
+I am exploring junior software and backend engineering opportunities in the **United States and Australia**, with additional interests in applied AI, cloud, and electrical engineering.
+
+[LinkedIn](https://www.linkedin.com/in/sucheol-jang-244652361/) · [Public repositories](https://github.com/Apple7575?tab=repositories)
+
+## Selected work
+
+| Project | My contribution | Evidence |
+| --- | --- | --- |
+| **Everyone's Prompt (모두의 프롬프트)** | PM; Java challenge specifications and evaluation criteria covering error/boundary cases, state preservation, and existing interfaces | [Team repository, architecture, and screenshots](https://github.com/ddingorang/itsourprompt) |
+| **DdakKok (딱콕)** | Product/AI architecture and integration contributor; frontend lead | [Presentation demo frontend](https://github.com/peanut-works/ddakkok-web) · [English guide](https://github.com/peanut-works/ddakkok-web/blob/main/README.en.md) |
+| **Wireless oxygen-concentration controller** | Sensor integration, circuits, programming, and wireless control in an embedded capstone prototype | 2024 Capstone Design Silver Prize; public source/demo not currently linked |
+
+Team repositories describe the complete team system. My individual responsibilities are listed separately above.
+
+## Technical experience
+
+- **Languages and data:** Python, Java, SQL, PostgreSQL
+- **Software development:** Django, REST APIs, Docker, frontend integration
+- **Applied AI:** AI-assisted product workflows, prompt-based coding challenges, evaluation criteria
+- **Engineering:** Embedded systems, RF plasma etching, impedance matching, PLECS, oscilloscope measurements
+
+## Education and research
+
+- **Jeonbuk National University:** B.Eng. in Electrical Engineering, February 2026; minor in New Energy Engineering; accredited engineering curriculum.
+- **SSAFY:** Non-degree software and AI training and team projects.
+- **Undergraduate Research Assistant, Jeonbuk National University:** March 2024–June 2025; RF plasma etching and impedance matching.
+
+## Recognition
+
+- Korea Chamber of Commerce and Industry Chairperson's Award — 2026 SSAFY × Kakao Tech AI Hackathon, DdakKok team
+- Major Track Grand Prize (University President's Award) — 2025 JBNU SW·AI Competition
+- Silver Prize — 2024 Capstone Design Competition
+
+## Project notes
+
+- [Everyone's Prompt: my contribution and technical context](portfolio/everyones-prompt.md)
+- [DdakKok: my contribution and demo scope](portfolio/ddakkok.md)
+
+---
+
+<details>
+<summary>한국어 소개 · 추가 프로젝트 및 학습 기록</summary>
+
 <div align="center">
 
 # 👋 안녕하세요, 장수철입니다
@@ -14,14 +62,8 @@ SSAFY&카카오 해커톤 수상(대한상공회의소회장상) 딱콕
 
 <br>
 
-<a href="https://github.com/<GITHUB_USERNAME>">
+<a href="https://github.com/Apple7575">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="<BLOG_URL>">
-  <img src="https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-</a>
-<a href="mailto:<EMAIL_ADDRESS>">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -285,29 +327,17 @@ SSAFY&카카오 해커톤 수상(대한상공회의소회장상) 딱콕
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=<GITHUB_USERNAME>&show_icons=true&hide_border=true&count_private=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Apple7575&show_icons=true&hide_border=true&count_private=true" height="165">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<GITHUB_USERNAME>&layout=compact&hide_border=true" height="165">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=<GITHUB_USERNAME>&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apple7575&layout=compact&hide_border=true" height="165">
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=<GITHUB_USERNAME>&theme=default">
-
-</div>
+<img src="https://streak-stats.demolab.com?user=Apple7575&hide_border=true">
 
 <br>
 
-# 🏆 Problem Solving
-
-<div align="center">
-
-<a href="https://solved.ac/profile/<SOLVED_AC_ID>">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=<SOLVED_AC_ID>">
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apple7575&theme=default">
 
 </div>
 
@@ -315,9 +345,7 @@ SSAFY&카카오 해커톤 수상(대한상공회의소회장상) 딱콕
 
 # 📫 Contact
 
-* GitHub: [github.com/<GITHUB_USERNAME>](https://github.com/<GITHUB_USERNAME>)
-* Blog: [기술 블로그](BLOG_URL)
-* Email: `<EMAIL_ADDRESS>`
+* GitHub: [github.com/Apple7575](https://github.com/Apple7575)
 
 <br>
 
@@ -327,6 +355,8 @@ SSAFY&카카오 해커톤 수상(대한상공회의소회장상) 딱콕
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=<GITHUB_USERNAME>\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Apple7575\&style=for-the-badge)
 
 </div>
+
+</details>

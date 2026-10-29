@@ -1,45 +1,79 @@
-# Sucheol Jang
-### Junior Software Engineer · Backend & Applied AI Projects
+<p align="center">
+  <img src="assets/portfolio-banner.svg" alt="Sucheol Jang — Software and Applied AI engineering portfolio" width="100%" />
+</p>
 
-I build software and applied AI projects through **Samsung Software & AI Academy (SSAFY)**. My background combines a **B.Eng. in Electrical Engineering** with software development, RF research, and embedded systems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sucheol-jang-244652361/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-2463EB?style=flat-square" /></a>
+  <a href="mailto:superstarrypassion@gmail.com"><img alt="Email Sucheol Jang" src="https://img.shields.io/badge/Email-Let's_talk-136F63?style=flat-square" /></a>
+  <a href="https://github.com/Apple7575?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/GitHub-Repositories-26374A?style=flat-square&amp;logo=github" /></a>
+</p>
 
-I am exploring junior software and backend engineering opportunities in the **United States and Australia**, with additional interests in applied AI, cloud, and electrical engineering.
+## Hi, I'm Sucheol
 
-[LinkedIn](https://www.linkedin.com/in/sucheol-jang-244652361/) · [Public repositories](https://github.com/Apple7575?tab=repositories)
+I'm an **Electrical Engineering graduate building software and applied AI projects at SSAFY**. I enjoy turning an ambiguous problem into clear requirements, working features, and checks that make the result assessable.
 
-## Selected work
+My experience connects **software development, AI-assisted workflows, RF research, and embedded systems**. I'm exploring **junior software and backend roles in the United States and Australia**, with additional interests in applied AI, cloud, and electrical engineering.
 
-| Project | My contribution | Evidence |
-| --- | --- | --- |
-| **Everyone's Prompt (모두의 프롬프트)** | PM; Java challenge specifications and evaluation criteria covering error/boundary cases, state preservation, and existing interfaces | [Team repository, architecture, and screenshots](https://github.com/ddingorang/itsourprompt) |
-| **DdakKok (딱콕)** | Product/AI architecture and integration contributor; frontend lead | [Presentation demo frontend](https://github.com/peanut-works/ddakkok-web) · [English guide](https://github.com/Apple7575/Apple7575/blob/master/portfolio/ddakkok-frontend-guide.md) |
-| **Wireless oxygen-concentration controller** | Sensor integration, circuits, programming, and wireless control in an embedded capstone prototype | 2024 Capstone Design Silver Prize; public source/demo not currently linked |
+**Start here:** [Project case studies](#selected-projects) · [Technical experience](#technical-experience) · [Background](#background) · [Contact](#contact)
 
-Team repositories describe the complete team system. My individual responsibilities are listed separately above.
+## Selected projects
+
+### 01 / Everyone's Prompt
+**Prompt-based coding practice for junior developers**  
+**Role:** PM · SSAFY team project · July–August 2026
+
+How do you check whether AI-generated changes respect an existing codebase? I designed Java challenges and evaluation criteria covering multi-file investigation, normal and boundary behavior, error handling, state preservation, and existing interfaces.
+
+[**Read my contribution →**](portfolio/everyones-prompt.md) · [Team code and architecture](https://github.com/ddingorang/itsourprompt)
+
+### 02 / DdakKok
+**AI-assisted ingredient review for child-specific allergy and health profiles**  
+**Role:** Frontend lead; product/AI architecture and integration contributor · May–June 2026
+
+I helped connect the product workflow, AI architecture, and frontend experience. Our team received the **Korea Chamber of Commerce and Industry Chairperson's Award** at the **2026 SSAFY × Kakao Tech AI Hackathon**.
+
+[**Read my contribution →**](portfolio/ddakkok.md) · [Frontend repository](https://github.com/peanut-works/ddakkok-web) · [English demo guide](portfolio/ddakkok-frontend-guide.md)
+
+### 03 / Wireless Oxygen Concentration Controller
+**An embedded monitoring and wireless-control prototype**  
+**Role:** Sensor integration, circuits, programming, and wireless control · Capstone · 2024
+
+Integrated oxygen sensing, circuit design, control logic, and wireless communication. **Silver Prize, 2024 Capstone Design Competition.** Public source and demo materials are not currently linked.
+
+<sub>Team repositories show the complete team system. The case studies separate my individual contribution from team implementation. Presentation demos and mock data are identified in the linked guides.</sub>
 
 ## Technical experience
 
-- **Languages and data:** Python, Java, SQL, PostgreSQL
-- **Software development:** Django, REST APIs, Docker, frontend integration
-- **Applied AI:** AI-assisted product workflows, prompt-based coding challenges, evaluation criteria
-- **Engineering:** Embedded systems, RF plasma etching, impedance matching, PLECS, oscilloscope measurements
+| Area | Experience |
+| :--- | :--- |
+| **Languages** | Python · Java · SQL |
+| **Backend and data** | Django · REST APIs · PostgreSQL · Docker |
+| **Applied AI** | AI-assisted workflows · prompt-based coding challenges · evaluation criteria |
+| **Engineering** | Embedded systems · RF plasma etching · impedance matching · PLECS · oscilloscopes |
 
-## Education and research
+## Background
 
-- **Jeonbuk National University:** B.Eng. in Electrical Engineering, February 2026; minor in New Energy Engineering; accredited engineering curriculum.
-- **SSAFY:** Non-degree software and AI training and team projects.
-- **Undergraduate Research Assistant, Jeonbuk National University:** March 2024–June 2025; RF plasma etching and impedance matching.
+**Jeonbuk National University** — B.Eng. in Electrical Engineering, February 2026  
+Minor in New Energy Engineering · Accredited engineering curriculum
+
+**Undergraduate Research Assistant** — Jeonbuk National University, March 2024–June 2025  
+RF plasma etching and impedance matching; PLECS and oscilloscope-based measurement and analysis
+
+**Samsung Software & AI Academy** — Non-degree software and AI training, 2026–present
 
 ## Recognition
 
-- Korea Chamber of Commerce and Industry Chairperson's Award — 2026 SSAFY × Kakao Tech AI Hackathon, DdakKok team
-- Major Track Grand Prize (University President's Award) — 2025 JBNU SW·AI Competition
-- Silver Prize — 2024 Capstone Design Competition
+| Year | Award |
+| :--- | :--- |
+| **2026** | Korea Chamber of Commerce and Industry Chairperson's Award · SSAFY × Kakao Tech AI Hackathon · DdakKok team |
+| **2025** | Major Track Grand Prize · University President's Award · JBNU SW·AI Competition |
+| **2024** | Silver Prize · Capstone Design Competition |
 
-## Project notes
+## Contact
 
-- [Everyone's Prompt: my contribution and technical context](portfolio/everyones-prompt.md)
-- [DdakKok: my contribution and demo scope](portfolio/ddakkok.md)
+**Email:** [superstarrypassion@gmail.com](mailto:superstarrypassion@gmail.com)  
+**LinkedIn:** [Sucheol Jang](https://www.linkedin.com/in/sucheol-jang-244652361/)  
+Based in Seoul, South Korea · Interested in opportunities in the United States and Australia
 
 ---
 

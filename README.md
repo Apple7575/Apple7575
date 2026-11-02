@@ -34,7 +34,15 @@ I helped connect the product workflow, AI architecture, and frontend experience.
 
 [**Read my contribution →**](portfolio/ddakkok.md) · [Frontend repository](https://github.com/peanut-works/ddakkok-web) · [English demo guide](portfolio/ddakkok-frontend-guide.md)
 
-### 03 / Wireless Oxygen Concentration Controller
+### 03 / GameCast
+**Collaborative game-room, recording, and AI-assisted highlight workflow**  
+**Role:** Frontend contributor & AI media-processing prototype contributor · UMC-GameCast team project · July 2025
+
+Built the React/TypeScript game waiting-room UI, including participant frames and an application-selection modal, and introduced route-based navigation with React Router. Also prototyped an audio-driven highlight workflow in Python: detecting high-energy moments, generating subtitles with Whisper, experimenting with speaker diarization, and exposing upload and processing endpoints.
+
+[**Read my contribution →**](portfolio/gamecast.md) · [Team web-service repository](https://github.com/UMC-GameCast/gamecast-web-service) · [Waiting-room UI & routing PR](https://github.com/UMC-GameCast/gamecast-web-service/pull/8) · [Highlight workflow PR](https://github.com/UMC-GameCast/gamecast-web-service/pull/10)
+
+### 04 / Wireless Oxygen Concentration Controller
 **An embedded monitoring and wireless-control prototype**  
 **Role:** Sensor integration, circuits, programming, and wireless control · Capstone · 2024
 
@@ -294,6 +302,26 @@ SSAFY&카카오 해커톤 수상(대한상공회의소회장상) 딱콕
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/STT-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
 </p>
+
+<br>
+
+## 🎮 GameCast
+
+> 게임 방에서 플레이를 함께 녹화하고, 주요 장면을 하이라이트 영상과 자막으로 만드는 팀 프로젝트
+
+### 주요 기여
+
+* React + TypeScript 기반 게임 대기방 UI 구현: 참가자 프레임, 준비 버튼, 녹화 대상 애플리케이션 선택 모달
+* React Router 기반 페이지 라우팅 및 메인·게임 생성·참가·대기방 이동 흐름 정리
+* Python 오디오 에너지 분석 기반 하이라이트 구간 탐지 프로토타입
+* Whisper 음성 인식·자막 생성 및 pyannote.audio 화자 분리 실험
+* FastAPI 기반 영상 업로드·처리·결과 조회·다운로드 API 프로토타입
+
+### Tech Stack
+
+React · TypeScript · React Router · Tailwind CSS · Python · librosa · Whisper · pyannote.audio · FastAPI
+
+[기여 사례](portfolio/gamecast.md) · [팀 저장소](https://github.com/UMC-GameCast/gamecast-web-service) · [PR #8](https://github.com/UMC-GameCast/gamecast-web-service/pull/8) · [PR #10](https://github.com/UMC-GameCast/gamecast-web-service/pull/10)
 
 <br>
 

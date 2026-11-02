@@ -8,6 +8,22 @@
 
 GameCast is a collaborative game-room experience built around creating and joining rooms, coordinating participants, and recording gameplay. The team server documentation describes real-time communication with Socket.IO and WebRTC, recording services, cloud storage, and a separate highlight-processing workflow.
 
+## Selected UI screens
+
+The following screens are from the team's Figma design file. They illustrate the product flow and visual context for the frontend work; they are not a claim of sole ownership of the overall design.
+
+<p align="center">
+  <img src="../assets/gamecast/waiting-room.png" width="49%" alt="GameCast waiting room with participant character cards" />
+  <img src="../assets/gamecast/source-selection.png" width="49%" alt="GameCast gameplay source selection" />
+</p>
+<p align="center"><sub>Waiting room · <a href="https://www.figma.com/design/RbjgIaC3PpoGiOjXfc5Kz4/UMC-%EA%B2%9C%EC%BC%80?node-id=1264-53502">Figma frame</a> | Gameplay source selection · <a href="https://www.figma.com/design/RbjgIaC3PpoGiOjXfc5Kz4/UMC-%EA%B2%9C%EC%BC%80?node-id=1296-23009">Figma frame</a></sub></p>
+
+<p align="center">
+  <img src="../assets/gamecast/subtitle-editor.png" width="49%" alt="GameCast subtitle editing interface" />
+  <img src="../assets/gamecast/audio-settings.png" width="49%" alt="GameCast microphone and speaker settings" />
+</p>
+<p align="center"><sub>Subtitle editing · <a href="https://www.figma.com/design/RbjgIaC3PpoGiOjXfc5Kz4/UMC-%EA%B2%9C%EC%BC%80?node-id=1338-21113">Figma frame</a> | Audio settings · <a href="https://www.figma.com/design/RbjgIaC3PpoGiOjXfc5Kz4/UMC-%EA%B2%9C%EC%BC%80?node-id=1003-36082">Figma frame</a></sub></p>
+
 ## My contribution
 
 - Built the game waiting-room interface in React and TypeScript, including room information, four participant frames, setup controls, and an application-selection modal.

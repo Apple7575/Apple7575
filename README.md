@@ -40,7 +40,7 @@ I helped connect the product workflow, AI architecture, and frontend experience.
 
 Built the React/TypeScript game waiting-room UI, including participant frames and an application-selection modal, and introduced route-based navigation with React Router. Also prototyped an audio-driven highlight workflow in Python: detecting high-energy moments, generating subtitles with Whisper, experimenting with speaker diarization, and exposing upload and processing endpoints.
 
-[**Read my contribution →**](portfolio/gamecast.md) · [Team web-service repository](https://github.com/UMC-GameCast/gamecast-web-service) · [Waiting-room UI & routing PR](https://github.com/UMC-GameCast/gamecast-web-service/pull/8) · [Highlight workflow PR](https://github.com/UMC-GameCast/gamecast-web-service/pull/10)
+[**Read my contribution →**](portfolio/gamecast.md) · [Figma UI design](https://www.figma.com/design/RbjgIaC3PpoGiOjXfc5Kz4/UMC-%EA%B2%9C%EC%BC%80?node-id=1002-24458&p=f&t=wh49YQ0i59rwGTYd-0) · [Team web-service repository](https://github.com/UMC-GameCast/gamecast-web-service) · [Waiting-room UI & routing PR](https://github.com/UMC-GameCast/gamecast-web-service/pull/8) · [Highlight workflow PR](https://github.com/UMC-GameCast/gamecast-web-service/pull/10)
 
 ### 04 / Wireless Oxygen Concentration Controller
 **An embedded monitoring and wireless-control prototype**  

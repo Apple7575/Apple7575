@@ -2,7 +2,7 @@
 
 **Project:** UMC-GameCast · team project · July 2025  
 **My role:** Frontend contributor and AI media-processing prototype contributor  
-[Team web-service repository](https://github.com/UMC-GameCast/gamecast-web-service) · [Server repository](https://github.com/UMC-GameCast/gamecast-server) · [PR #8 — Waiting-room UI and routing](https://github.com/UMC-GameCast/gamecast-web-service/pull/8) · [PR #10 — Highlight and media-processing workflow](https://github.com/UMC-GameCast/gamecast-web-service/pull/10)
+[Figma UI design — selected screen](https://www.figma.com/design/RbjgIaC3PpoGiOjXfc5Kz4/UMC-%EA%B2%9C%EC%BC%80?node-id=1002-24458&p=f&t=wh49YQ0i59rwGTYd-0) · [Team web-service repository](https://github.com/UMC-GameCast/gamecast-web-service) · [Server repository](https://github.com/UMC-GameCast/gamecast-server) · [PR #8 — Waiting-room UI and routing](https://github.com/UMC-GameCast/gamecast-web-service/pull/8) · [PR #10 — Highlight and media-processing workflow](https://github.com/UMC-GameCast/gamecast-web-service/pull/10)
 
 ## Product
 
@@ -21,6 +21,10 @@ The waiting-room UI and routing changes are documented in merged PR #8. The high
 ## Team technology context
 
 The server repository documents Node.js, TypeScript, Express, MySQL, Prisma, Socket.IO, WebRTC, AWS S3, and Docker. My directly evidenced contributions in the web-service repository used React, TypeScript, React Router, Tailwind CSS, Python, librosa, NumPy, pydub, Whisper, pyannote.audio, and FastAPI.
+
+## Design reference
+
+The project UI design is available in the [Figma file (selected screen)](https://www.figma.com/design/RbjgIaC3PpoGiOjXfc5Kz4/UMC-%EA%B2%9C%EC%BC%80?node-id=1002-24458&p=f&t=wh49YQ0i59rwGTYd-0). The Figma file is linked as a visual reference; this case study does not claim sole ownership of the overall design.
 
 ## Evidence
 

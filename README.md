@@ -18,7 +18,17 @@ My experience connects **software development, AI-assisted workflows, RF researc
 
 ## Selected projects
 
-### 01 / Everyone's Prompt
+### 01 / Fit
+**AI-assisted company research and interview preparation**  
+**SSAFY Big Data & Distributed Systems team project · August–October 2026**
+
+Fit helps job seekers research employers using public corporate disclosures and news, get conversational feedback on application essays, and practice interviews with AI-generated follow-up questions and answer analysis. The team seeded the company dataset with **2,662 listed companies** and used MediaPipe to analyze gaze and head pose during interview practice.
+
+**Team architecture:** React and TypeScript frontend · Java and Spring Boot API · Python, FastAPI, and LangGraph for AI agents and retrieval-augmented generation · PostgreSQL · Hadoop and Spark for data processing · Docker Compose and nginx.
+
+**My contribution:** Rewrote the repository README to explain the product, architecture, local setup, and test commands. Added a documentation index and updated frontend, data pipeline, and infrastructure guides so contributors could find setup and verification instructions.
+
+### 02 / Everyone's Prompt
 **Prompt-based coding practice for junior developers**  
 **Role:** PM · SSAFY team project · July–August 2026
 
@@ -26,7 +36,7 @@ How do you check whether AI-generated changes respect an existing codebase? I de
 
 [**Read my contribution →**](portfolio/everyones-prompt.md) · [Team code and architecture](https://github.com/ddingorang/itsourprompt)
 
-### 02 / DdakKok
+### 03 / DdakKok
 **AI-assisted ingredient review for child-specific allergy and health profiles**  
 **Role:** Frontend lead; product/AI architecture and integration contributor · May–June 2026
 
@@ -34,7 +44,7 @@ I helped connect the product workflow, AI architecture, and frontend experience.
 
 [**Read my contribution →**](portfolio/ddakkok.md) · [Frontend repository](https://github.com/peanut-works/ddakkok-web) · [English demo guide](portfolio/ddakkok-frontend-guide.md)
 
-### 03 / GameCast
+### 04 / GameCast
 **Collaborative game-room, recording, and AI-assisted highlight workflow**  
 **Role:** Frontend contributor & AI media-processing prototype contributor · UMC-GameCast team project · July 2025
 
@@ -47,7 +57,7 @@ Built the React/TypeScript game waiting-room UI, including participant frames an
 
 [**Read my contribution →**](portfolio/gamecast.md) · [Figma UI design](https://www.figma.com/design/RbjgIaC3PpoGiOjXfc5Kz4/UMC-%EA%B2%9C%EC%BC%80?node-id=1002-24458&p=f&t=wh49YQ0i59rwGTYd-0) · [Team web-service repository](https://github.com/UMC-GameCast/gamecast-web-service) · [Waiting-room UI & routing PR](https://github.com/UMC-GameCast/gamecast-web-service/pull/8) · [Highlight workflow PR](https://github.com/UMC-GameCast/gamecast-web-service/pull/10)
 
-### 04 / Wireless Oxygen Concentration Controller
+### 05 / Wireless Oxygen Concentration Controller
 **An embedded monitoring and wireless-control prototype**  
 **Role:** Sensor integration, circuits, programming, and wireless control · Capstone · 2024
 
